@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Gemini Touch</string>
+    <string name="accessibility_description">Permite ao Gemini observar o ecrã e executar toques e gestos quando o utilizador ativa o serviço.</string>
+</resources>
